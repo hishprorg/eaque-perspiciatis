@@ -1,3 +1,21 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# js-lib-transformers
+Library of simple and common data tranformers
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+## Install
+```
+npm add @hishprorg/eaque-perspiciatis
+```
+
+## Import TS (source)
+```
+import * as transformers from '@hishprorg/eaque-perspiciatis'
+import { pascalize } from '@hishprorg/eaque-perspiciatis'
+import pascalize from '@hishprorg/eaque-perspiciatis/src/lib/transformers/pascalize.js'
+```
+
+## Import ESM
+```
+import * as transformers from '@hishprorg/eaque-perspiciatis/dist'
+import { pascalize } from '@hishprorg/eaque-perspiciatis/dist'
+import pascalize from '@hishprorg/eaque-perspiciatis/dist/lib/transformers/pascalize'
+```
